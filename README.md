@@ -2,10 +2,6 @@
 
 A full-stack Airbnb-inspired web application built using Express, EJS, and MongoDB. Users can browse property listings, view details, and hosts can manage their property listings.
 
-## Demo
-
-## Video Demo
-
 ## Features
 
 ### 🏪 Store (User Side)
