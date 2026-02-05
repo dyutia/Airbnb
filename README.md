@@ -1,16 +1,20 @@
-# Airbnb Clone 
+# Airbnb Clone
 
 A full-stack Airbnb-inspired web application built using Express, EJS, and MongoDB. Users can browse property listings, view details, and hosts can manage their property listings.
 
 ## Demo Screenshots
+
 ![Index Page](./Screenshots/image1.png)
 ![Home Listing Page](./Screenshots/image2.png)
 ![Details Page](./Screenshots/image3.png)
 ![Host Homes Listing](./Screenshots/image4.png)
 ![Edit Home Page](./Screenshots/image5.png)
 ![Add Home Page](./Screenshots/image6.png)
+![Homes Database](./Screenshots/image7.png)
+![Favourites Database](./Screenshots/image8.png)
 
 ## Demo Video
+
 https://drive.google.com/file/d/1fsa4McDmfcuU9JaXadiyqoftAqVkN9Nn/view?usp=sharing
 
 ## Features
@@ -36,8 +40,7 @@ Backend:
 
 - Node.js
 - Express.js
-- 
-Frontend:
+- Frontend:
 
 - EJS (Templating Engine)
 - HTML
