@@ -40,7 +40,9 @@ Backend:
 
 - Node.js
 - Express.js
-- Frontend:
+- Mongoose
+
+Frontend:
 
 - EJS (Templating Engine)
 - HTML
